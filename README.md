@@ -17,7 +17,10 @@
 ## Requirements
 
 - Android 10 (API 29) or newer
-- A active  Proton account  
+- A active  Proton account
+
+## NOTE IF YOU ALREADY ENABLED QUANTUM ENCRYPTION THIS APP DOES NOT WORKS FOR YOU.
+## We need to wait for the quantum sdk 
 
 ## Installation
 
